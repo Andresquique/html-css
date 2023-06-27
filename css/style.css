@@ -1,0 +1,14 @@
+/*selector universal*/
+*/{}
+/*selector por etiqueta*/
+
+body {background-color: green;
+    font-family: 'Ubuntu', sans-serif;}
+p {color: white;
+    font-weight: 700;
+    font-size: 16px;}
+/*selector por id*/
+#miparrafo {color: yellow;}
+.miparrafo {color: brown;
+font-size: 32px;}
+
